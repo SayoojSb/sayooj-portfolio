@@ -2,25 +2,32 @@ import React from 'react'
 
 const projects = [
     {
-        title: "E-Commerce Platform",
-        description: "A full-featured online store built with Next.js, Stripe, and Tailwind CSS.",
-        tags: ["Next.js", "Stripe", "Tailwind"],
-        github: "https://github.com",
-        demo: "https://demo.com"
+        title: "OSCT - Open Source Contribution Tracker",
+        description: "A MERN platform that helps beginners learn pull requests, find beginner-friendly GitHub issues, and track open-source contributions.",
+        tags: ["React", "Node.js", "Express", "MongoDB", "GitHub API", "JWT", "OAuth", "Tailwind CSS"],
+        github: "https://github.com/SayoojSb/osct-frontend.git",
+        demo: "https://open-source-contribution-tracker.netlify.app/"
     },
     {
-        title: "Task Management App",
-        description: "Real-time collaboration tool for teams using React, Firebase, and Redux.",
-        tags: ["React", "Firebase", "Redux"],
-        github: "https://github.com",
-        demo: "https://demo.com"
+        title: "AI GitHub Portfolio Reviewer",
+        description: "AI-powered app that analyzes GitHub profiles and generates portfolio feedback using FastAPI, Streamlit, LangGraph, and LLMs.",
+        tags: ["Python", "FastAPI", "Streamlit", "LangGraph", "LangChain", "Groq", "GitHub API", "LLM"],
+        github: "https://github.com/SayoojSb/student-github-reviewer.git",
+        demo: "https://student-github-reviewer-ui-04ew.onrender.com/"
     },
     {
-        title: "AI Dashboard",
-        description: "Analytics dashboard visualizing AI model performance with D3.js.",
-        tags: ["React", "D3.js", "Python"],
-        github: "https://github.com",
-        demo: "https://demo.com"
+        title: "Intelligent Learning Analytics & AI Study Coach",
+        description: "An AI-powered platform that predicts academic risk and provides personalized study plans with RAG-based resource recommendations.",
+        tags: ["Python", "Streamlit", "Scikit-Learn", "LangChain", "LangGraph", "FAISS", "RAG", "Machine Learning"],
+        github: "https://github.com/SayoojSb/intelligent-learning-analytics.git",
+        demo: "https://intelligent-learning-analytics.streamlit.app/"
+    },
+    {
+        title: "AetherLearn - Inclusive Flashcard Learning Platform",
+        description: "A React-based flashcard platform where students create, review, and manage visual flashcards for smarter learning.",
+        tags: ["React", "Vite", "React Router", "CSS", "LocalStorage", "JavaScript"],
+        github: "https://github.com/SayoojSb/AetherLearn.git",
+        demo: "https://aether-learn.vercel.app/"
     }
 ]
 

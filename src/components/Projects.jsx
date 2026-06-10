@@ -31,7 +31,7 @@ const projects = [
     },
     {
         title: "Realtime AI Voice Agent",
-        description: "Built a realtime multimodal AI voice agent for discovery, lead qualification, and knowledge-base Q&A using LiveKit Agents. Engineered synchronized visual orchestration with LLM tool calls and LiveKit data channels to render dynamic UI updates during conversations. Implemented automated post-call lead extraction, generating structured JSON summaries from transcripts for downstream workflow automation.",
+        description: "A realtime multimodal AI voice agent for discovery, lead qualification, and knowledge-base Q&A with automated post-call lead extraction.",
         tags: ["Python", "Next.js", "React", "TypeScript", "LiveKit Agents", "Groq", "Deepgram", "Cartesia", "WebRTC"],
         role: "AI/ML Engineer",
         github: "https://github.com/SayoojSb/realtime-ai-voice-agent",

@@ -35,7 +35,7 @@ const projects = [
         tags: ["Python", "Next.js", "React", "TypeScript", "LiveKit Agents", "Groq", "Deepgram", "Cartesia", "WebRTC"],
         role: "AI/ML Engineer",
         github: "https://github.com/SayoojSb/realtime-ai-voice-agent",
-        demo: null
+        demo: "https://realtime-ai-voice-agent.vercel.app/"
     }
 ]
 
